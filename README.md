@@ -70,17 +70,17 @@ Currently, I am dedicating myself to specialize in **database management and opt
 <br>
 
 ## ⚡ Streak & Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamerzero081&theme=dracula" width="49%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamerzero081&theme=dracula&include_all_commits=true" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamerzero081&theme=dracula" width="50%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamerzero081&theme=dracula&include_all_commits=true" width="100%">
 
-## 🚀 Live Dev Status
+<br>
 
 ## 🚀 Live Dev Status
 <p align="center">
   <a href="https://wakatime.com/@Gamerzero081"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&query=data.human_readable_total&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40b11697fb-4492-4b42-a141-a589cc8807ee.json?v=final&color=50fa7b&logo=wakatime"></a><a href="https://github.com/Gamerzero081/node-backend-study"><img src="https://img.shields.io/github/last-commit/Gamerzero081/node-backend-study?label=Last%20Update&style=for-the-badge&color=50fa7b&logo=github"></a><a href="https://github.com/Gamerzero081/node-backend-study"><img src="https://img.shields.io/github/languages/top/Gamerzero081/node-backend-study?label=Main%20Tech&style=for-the-badge&color=ff79c6&logo=node.js"></a>
   <br>
   <img src="https://img.shields.io/badge/Focus-Node.js%20%26%20MySQL-6272a4?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Level-Back--end%20Trainee-bd93f9?style=for-the-badge&logo=vscode&logoColor=white">
+  <img src="https://img.shields.io/badge/Level-Back--end%20Trainee-bd93f9?style=for-the-badge&logo=target&logoColor=white">
 </p>
 <img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="600">
 
