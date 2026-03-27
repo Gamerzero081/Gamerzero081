@@ -2,6 +2,8 @@
   <tr>
     <td width="50%" valign="top">
 
+<img src = "Robot.gif">
+
 ## 👨‍💻 About me
 
 I am a **Back-end developer in training**, focusing mainly on **Node.js**.  
@@ -19,7 +21,7 @@ Some highlights about me:
 
 ### 🌐 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,java,python,springboot" alt="tech icons"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,java,python,spring,linux" alt="tech icons"/>
 </p>
 
 I have experience working with:
@@ -53,6 +55,6 @@ When I’m not coding, I enjoy:
 
 ---
 
-    </td>
+  <img scr = Programing.gif>
   </tr>
 </table>
