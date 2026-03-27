@@ -5,7 +5,7 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      
+
 ## 👨‍💻 About me
 I am a **Back-end developer in training**, focusing mainly on **Node.js**.  
 Currently, I am dedicating myself to specialize in **database management and optimization**.
@@ -15,7 +15,7 @@ Currently, I am dedicating myself to specialize in **database management and opt
 - 🤖 Integrating backend systems with efficient data flow.
 
 ### 🛠️ Tech Inventory
-<p>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,java,python,spring,linux,git,docker" />
   </a>
@@ -25,14 +25,17 @@ Currently, I am dedicating myself to specialize in **database management and opt
 
 ## 🎲 Beyond The Code
 - 🎮 **Gaming:** Currently hyped for *Crimson Desert*.
-- 💻 **Hardware:** Love assembling PCs and troubleshooting components.
+- 💻 **Hardware:** Love assembling PCs and troubleshooting.
 - 🍳 **Cooking:** Experimenting with new flavors.
 
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
 
 ## 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=Gamerzero081&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="100%"><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gamerzero081&show_icons=true&theme=radical&count_private=true" width="100%">
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamerzero081&layout=compact&theme=radical&hide_langs=html,css" width="100%">
 
   </tr>
@@ -41,14 +44,16 @@ Currently, I am dedicating myself to specialize in **database management and opt
 <div align="center">
 
 ## ⚡ Streak & Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamerzero081&theme=radical" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gamerzero081&theme=radical&layout=compact" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamerzero081&theme=radical" width="49%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamerzero081&theme=github-compact" width="49%">
 
 <br>
 
-## 💻 My Workspace Snapshot
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamerzero081&theme=github-compact" width="100%">
+## 🏆 Current Trophy Hall
+<img src="https://github-profile-trophy.vercel.app/?username=Gamerzero081&theme=radical&column=3&margin-w=15&no-bg=true" width="100%">
 
-<img src="https://github-attachments.assets.github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="600">
+<br>
+
+<img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="600">
 
 </div>
