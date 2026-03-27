@@ -48,7 +48,7 @@ Currently, I am dedicating myself to specialize in **database management and opt
 <td width="45%" valign="top" align="center">
 
 ## 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=Gamerzero081&show_icons=true&theme=dracula&count_private=true&rank_icon=github" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=Gamerzero081&show_icons=true&theme=dracula&count_private=true&rank_icon=github&cache_seconds=1" width="100%">
 
 <br>
 
