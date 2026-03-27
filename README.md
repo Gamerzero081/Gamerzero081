@@ -1,5 +1,10 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ade95eca-dc50-41f7-9dca-4b987718865b" width="100%">
+  
+  <p align="center">
+    <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
 </div>
 
 <table border="0">
@@ -17,7 +22,7 @@ Currently, I am dedicating myself to specialize in **database management and opt
 ### 🛠️ Tech Inventory
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,java,python,spring,linux,git,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,java,python,spring,linux,git,docker,postman,vscode" />
   </a>
 </p>
 
@@ -49,8 +54,17 @@ Currently, I am dedicating myself to specialize in **database management and opt
 
 <br>
 
-## 🏆 Current Trophy Hall
-<img src="https://github-profile-trophy.vercel.app/?username=Gamerzero081&theme=radical&column=3&margin-w=15&no-bg=true" width="100%">
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gamerzero081/Gamerzero081/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gamerzero081/Gamerzero081/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gamerzero081/Gamerzero081/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+## 🏆 Trophy Hall
+<img src="https://github-profile-trophy.vercel.app/?username=Gamerzero081&theme=radical&column=4&margin-w=15&no-bg=true" width="100%">
 
 <br>
 
