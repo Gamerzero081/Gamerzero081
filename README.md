@@ -56,7 +56,7 @@ When I’m not coding, I enjoy:
 - 🍳 Cooking — experimenting with new recipes and flavors.
 
   </tr>
+</table>
   <div aling="center">
   <img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="200">
   </div>
-</table>
