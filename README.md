@@ -4,26 +4,30 @@
 
 ## 👨‍💻 About me
 
-I am a **Back-end developer in training**, focusing on **Java**.
+I am a **Back-end developer in training**, focusing mainly on **Node.js**.  
+Currently, I am dedicating myself to specialize in **database management and optimization**.
 
-Currently, I divide my time between work, college, and studying  
-**graphics engines** and **Artificial Intelligence**.
+I split my time between work, studies, and personal projects to grow in both backend development and databases.
 
-- 🔥 Deepening studies in NestJS and API scalability  
-- 🤖 Building an AI-powered Code Review Assistant  
-- 🎮 Passionate about Game Design (Unity/Unreal)
+Some highlights about me:
+
+- 🔥 Deepening knowledge in **Node.js**, building scalable APIs and services.  
+- 📚 Improving my skills with **database systems**, especially **MySQL**.  
+- 🤖 Working on projects that integrate backend and databases efficiently.  
 
 ## 🛠️ Tech Inventory
 
-### 🌐 Back-end & Languages
+### 🌐 Back-end & Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,java,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,java,python,springboot" alt="tech icons"/>
 </p>
 
-### 🎮 Game Dev & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,git,github" />
-</p>
+I have experience working with:
+
+- **Node.js** — JavaScript runtime for building fast, scalable backends.  
+- **MySQL** — Relational database management system, focus on optimization.  
+- **Java** & **Spring Boot** — For learning enterprise backend concepts.  
+- **Python** — For scripting, automation, and AI exploration.
 
     </td>
 
@@ -31,17 +35,23 @@ Currently, I divide my time between work, college, and studying
 
 ## 🎯 Current Objectives
 
-- Improve skills with game engines  
-- Study Level & Game Design  
-- Learn **1 programming language per semester**
+My main goals are:
+
+- Specialize in **database design, optimization, and administration**.  
+- Master **Node.js backend development**, focusing on performance and scalability.  
+- Learn advanced concepts like **indexing, replication, and query optimization**.
+
+I believe these skills will prepare me for real-world backend challenges and complex data handling.
 
 ## 🎲 Beyond The Code
 
-- 🎲 TTRPGs: D&D, Call of Cthulhu  
-- 🎮 Gaming: 250+ games  
-- 📚 Mystery & supernatural books  
+When I’m not coding, I enjoy:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight)
+- 🎮 Playing video games — a way to relax and get inspired.  
+- 💻 Programming personal projects — keeping my skills sharp and creative.  
+- 🍳 Cooking — experimenting with new recipes and flavors.
+
+---
 
     </td>
   </tr>
