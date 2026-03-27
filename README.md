@@ -86,6 +86,13 @@ Currently, I am dedicating myself to specialize in **database management and opt
   <img src="https://img.shields.io/badge/Level-Back--end%20Trainee-bd93f9?style=for-the-badge&logo=target&logoColor=white">
 </p>
 
+### 📊 Tempo por Projeto
+
+| Repositório | Tempo de Código |
+| :--- | :--- |
+| **Node Backend Study** | <a href="https://wakatime.com/badge/github/Gamerzero081/node-backend-study"><img src="https://wakatime.com/badge/github/Gamerzero081/node-backend-study.svg" alt="wakatime"></a> |
+| **Meu Perfil** | <a href="https://wakatime.com/badge/github/Gamerzero081/Gamerzero081"><img src="https://wakatime.com/badge/github/Gamerzero081/Gamerzero081.svg" alt="wakatime"></a> |
+
 <img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="600">
 
 </div>
