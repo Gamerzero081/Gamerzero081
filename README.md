@@ -2,7 +2,7 @@
   <tr>
     <td width="50%" valign="top">
 
-![Robot](https://github.com/user-attachments/assets/ade95eca-dc50-41f7-9dca-4b987718865b)
+<img src="https://github.com/user-attachments/assets/ade95eca-dc50-41f7-9dca-4b987718865b" width="200">
 
 
 ## 👨‍💻 About me
@@ -54,7 +54,7 @@ When I’m not coding, I enjoy:
 - 💻 Programming personal projects — keeping my skills sharp and creative.  
 - 🍳 Cooking — experimenting with new recipes and flavors.
 
-  ![Programing](https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a)
+<img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="500">
 
   </tr>
 </table>
