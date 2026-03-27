@@ -33,7 +33,7 @@ Currently, I am dedicating myself to specialize in **database management and opt
 
 ---
 
-## 🎲 Beyond The Code
+## 🎲 My Hobbies
 - 🎮 **Gaming:** Currently hyped for *Crimson Desert*.
 - 💻 **Hardware:** Love assembling PCs and troubleshooting components.
 - 🍳 **Cooking:** Experimenting with new flavors.
