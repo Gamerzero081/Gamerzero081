@@ -48,12 +48,12 @@ Currently, I am dedicating myself to specialize in **database management and opt
 <td width="45%" valign="top" align="center">
 
 ## 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=Gamerzero081&show_icons=true&theme=dracula&count_private=true&rank_icon=github&cache_seconds=1" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gamerzero081&show_icons=true&theme=dracula&count_private=true&hide_border=true&rank_icon=github" width="100%">
 
 <br>
 
 ## 🛠️ Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamerzero081&layout=compact&theme=dracula&hide_langs=html,css" width="100%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gamerzero081&layout=compact&theme=dracula&hide_langs=html,css&card_width=400" width="100%">
 
 </td>
 </table>
@@ -73,12 +73,18 @@ Currently, I am dedicating myself to specialize in **database management and opt
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gamerzero081&theme=dracula" width="49%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gamerzero081&theme=dracula&include_all_commits=true" width="49%">
 
-<br>
+## 🚀 Live Dev Status
+<p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&query=data.human_readable_total&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40Gamerzero081%2F6272a4.json&color=50fa7b&logo=wakatime">
+  
+  <img src="https://img.shields.io/github/last-commit/Gamerzero081/Gamerzero081?label=Last%20Update&style=for-the-badge&color=50fa7b&logo=github">
 
-## 🏆 Current Trophy Hall
-<img src="https://github-profile-trophy.vercel.app/?username=Gamerzero081&theme=dracula&column=3&margin-w=15&no-bg=true" width="100%">
+  <img src="https://img.shields.io/github/languages/top/Gamerzero081/Gamerzero081?label=Main%20Tech&style=for-the-badge&color=ff79c6&logo=github">
+  
+  <img src="https://img.shields.io/badge/Focus-Node.js%20%26%20MySQL-6272a4?style=for-the-badge&logo=node.js&logoColor=white">
 
-<br>
+  <img src="https://img.shields.io/badge/Level-Back--end%20Trainee-bd93f9?style=for-the-badge&logo=target&logoColor=white">
+</p>
 
 <img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="600">
 
