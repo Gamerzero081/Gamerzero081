@@ -58,5 +58,5 @@ When I’m not coding, I enjoy:
   </tr>
 </table>
   <div align="center">
-  <img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="200">
+  <img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="1080">
   </div>
