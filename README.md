@@ -55,6 +55,6 @@ When I’m not coding, I enjoy:
 
 ---
 
-  ![Texto Alternativo]("C:\Users\Gabriel\Desktop\Gamerzero081\Gifs\Programing.gif")
+  <img src = "C:\Users\Gabriel\Desktop\Gamerzero081\Gifs\Programing.gif" width="300"/>
   </tr>
 </table>
