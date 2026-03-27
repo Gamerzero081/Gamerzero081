@@ -75,7 +75,7 @@ Currently, I am dedicating myself to specialize in **database management and opt
 
 ## 🚀 Live Dev Status
 <p align="center">
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&query=data.human_readable_total&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40Gamerzero081%2F6272a4.json&color=50fa7b&logo=wakatime">
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&query=data.human_readable_total&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40b11697fb-4492-4b42-a141-a589cc8807ee.json&color=50fa7b&logo=wakatime">
   
   <img src="https://img.shields.io/github/last-commit/Gamerzero081/Gamerzero081?label=Last%20Update&style=for-the-badge&color=50fa7b&logo=github">
 
