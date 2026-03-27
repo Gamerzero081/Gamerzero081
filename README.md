@@ -53,8 +53,6 @@ When I’m not coding, I enjoy:
 - 💻 Programming personal projects — keeping my skills sharp and creative.  
 - 🍳 Cooking — experimenting with new recipes and flavors.
 
----
-
   <img src = "C:\Users\Gabriel\Desktop\Gamerzero081\Gifs\Programing.gif" width="300"/>
   </tr>
 </table>
