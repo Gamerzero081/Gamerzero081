@@ -17,7 +17,7 @@ Some highlights about me:
 
 ## 🛠️ Tech Inventory
 
-### 🌐 Back-end & Languages  
+### 🌐 Languages & Frameworks  
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,java,python,springboot" alt="tech icons"/>
 </p>
@@ -26,7 +26,7 @@ I have experience working with:
 
 - **Node.js** — JavaScript runtime for building fast, scalable backends.  
 - **MySQL** — Relational database management system, focus on optimization.  
-- **Java** & **Spring Boot** — For learning enterprise backend concepts.  
+- **Java** & **Spring Boot** — Enterprise backend development framework.  
 - **Python** — For scripting, automation, and AI exploration.
 
     </td>
