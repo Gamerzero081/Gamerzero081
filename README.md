@@ -1,5 +1,11 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ade95eca-dc50-41f7-9dca-4b987718865b" width="100%">
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/gabriel-góis-b03aaa302/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Gabrieldegoisfranca@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Gamerzero081" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <table border="0">
@@ -28,7 +34,7 @@ Currently, I am dedicating myself to specialize in **database management and opt
 
 **Databases & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,postman,vscode,figma" />
 </p>
 
 ---
@@ -39,17 +45,17 @@ Currently, I am dedicating myself to specialize in **database management and opt
 - 🍳 **Cooking:** Experimenting with new flavors.
 
     </td>
-    <td width="45%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
 ## 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=Gamerzero081&show_icons=true&theme=dracula&count_private=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=Gamerzero081&show_icons=true&theme=dracula&count_private=true&rank_icon=github" width="100%">
 
 <br>
 
 ## 🛠️ Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamerzero081&layout=compact&theme=dracula&hide_langs=html,css" width="100%">
 
-  </tr>
+</td>
 </table>
 
 <div align="center">
