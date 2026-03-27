@@ -1,6 +1,6 @@
 <table>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ade95eca-dc50-41f7-9dca-4b987718865b" width="500">
+  <img src="https://github.com/user-attachments/assets/ade95eca-dc50-41f7-9dca-4b987718865b" width="1920">
 </div>
   <tr>
     <td width="50%" valign="top">
@@ -57,6 +57,6 @@ When I’m not coding, I enjoy:
 
   </tr>
 </table>
-  <div aling="center">
+  <div align="center">
   <img src="https://github.com/user-attachments/assets/e78baf93-cb7b-461c-b51b-40689121104a" width="200">
   </div>
