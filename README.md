@@ -77,7 +77,8 @@ Currently, I am dedicating myself to specialize in **database management and opt
 
 ## 🚀 Live Dev Status
 <p align="center">
-<a href="https://wakatime.com/@Gamerzero081"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&query=data.text&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40gamerzero081%2F54b1fae9-8f15-4274-8855-dfd929d49516.json&color=50fa7b&logo=wakatime&v=30min"></a><a href="https://github.com/Gamerzero081/node-backend-study"><img src="https://img.shields.io/github/last-commit/Gamerzero081/node-backend-study?label=Last%20Update&style=for-the-badge&color=50fa7b&logo=github"></a><img src="https://img.shields.io/github/languages/top/Gamerzero081/node-backend-study?label=Main%20Tech&style=for-the-badge&color=ff79c6&logo=node.js">
+<a href="https://wakatime.com/@Gamerzero081"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Coding%20Time&query=data.text&url=https%3A%2F%2Fwakatime.com%2Fshare%2F%40gamerzero081%2F54b1fae9-8f15-4274-8855-dfd929d49516.json&color=50fa7b&logo=wakatime&cacheSeconds=3600">
+</a><a href="https://github.com/Gamerzero081/node-backend-study"><img src="https://img.shields.io/github/last-commit/Gamerzero081/node-backend-study?label=Last%20Update&style=for-the-badge&color=50fa7b&logo=github"></a><img src="https://img.shields.io/github/languages/top/Gamerzero081/node-backend-study?label=Main%20Tech&style=for-the-badge&color=ff79c6&logo=node.js">
   <br>
   <img src="https://img.shields.io/badge/Focus-Node.js%20%26%20MySQL-6272a4?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Level-Back--end%20Trainee-bd93f9?style=for-the-badge&logo=target&logoColor=white">
